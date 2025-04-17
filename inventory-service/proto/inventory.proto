@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package inventory;
 
-option go_package = "github.com/yourusername/ecommerce/protos/inventory";
+option go_package = "github.com/abaika-abay/ecommerce/protos/inventory";
 
 message Product {
   string id = 1;
